@@ -8,7 +8,10 @@
 - ảnh chụp màn hình CAPCUT
 - ảnh chụp màn hình GOOGLE DOCS
 
-## Trích dẫn nguồn AI(Canva, Chat GPT, Gemini)
+## Trích dẫn nguồn AI
+- Canva (https://www.canva.com/)
+- Chat GPT (https://chatgpt.com/)
+- Gemini(https://gemini.google.com/app?hl=vi)
 ## Bản quyền (License)
 
 Bản quyền © [2025] [họ và tên/Mssv]
