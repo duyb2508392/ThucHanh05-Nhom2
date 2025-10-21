@@ -1,4 +1,14 @@
 # ThucHanh05-Nhom2
+## Mô tả nội dung:
+- Phan1.1, 1.2- Hoàng Anh.pdf   
+- Phan2.1-Duy.png
+- Phan2.2-Duy.mp4
+- Phan3.1-Danh-index.html
+- ảnh chụp màn hình CANVA
+- ảnh chụp màn hình CAPCUT
+- ảnh chụp màn hình GOOGLE DOCS
+
+## Trích dẫn nguồn AI(Canva, Chat GPT, Gemini)
 ## Bản quyền (License)
 
 Bản quyền © [2025] [họ và tên/Mssv]
